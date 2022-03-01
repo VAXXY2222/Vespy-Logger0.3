@@ -2,6 +2,6 @@
 Stub builder to make a roblox cookie grabber with cool features and custom console
 
 If you dont know how to setup it, please watch my tutorial
-https://www.youtube.com/watch?v=fCZtfBIhldQ
+https://discord.gg/FyCUdSVqwa
 
 Thank you for using Vespy logger. im working on 0.4 now
